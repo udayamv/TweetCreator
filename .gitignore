@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# idea class IDE
+.idea/
+
+.DS_Store
+
+# Virtual Environment
+tweeEnv/
+
 # C extensions
 *.so
 
